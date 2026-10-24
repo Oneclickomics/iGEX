@@ -1,0 +1,29 @@
+iGEX Terms of Use
+
+1. Free use
+
+iGEX is free to download, install and use for any lawful purpose, including commercial use. You may make backup copies and export, edit, share and publish your own figures and results without fees or separate permission.
+
+2. Redistribution and source code
+
+Do not redistribute, sell or repackage the iGEX application without permission. Share the official download link instead. The original application source remains private. Scientific-method code released separately is governed by its accompanying license. These restrictions are subject to the third-party rights below.
+
+3. Datasets and responsibility
+
+You are responsible for your inputs, analysis settings and conclusions, and for having permission to use your datasets. Follow the applicable terms and attribution requirements of Expression Atlas, Bgee, PaxDB, other providers and the original data owners. iGEX does not grant rights to third-party data.
+
+4. Citation
+
+Citations are appreciated, and users are encouraged to cite iGEX when using figures exported directly from iGEX. Citation is not a condition of using the software or publishing its outputs.
+
+5. Third-party software
+
+Third-party components retain their own licenses, which take precedence for those components. See THIRD_PARTY_NOTICES.txt and the accompanying license texts. Nothing in this agreement restricts their licensed copying, modification, redistribution or source-access rights, including LGPL library replacement, relinking and reverse engineering to debug modifications. Private application changes needed to exercise those LGPL rights are permitted.
+
+6. No warranties or liability
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, iGEX is provided “AS IS” and “AS AVAILABLE”, without warranties of any kind, express or implied, including merchantability, fitness for a particular purpose, non-infringement, accuracy or availability. You use it at your own risk.
+
+To the fullest extent permitted by applicable law, in no event shall the developers, contributors or other rights holders be liable for any claim, loss or damage arising from use of, or inability to use, iGEX, including incorrect results, loss of data or lost profits, whether in contract, tort (including negligence) or otherwise, even if advised of the possibility of such damage.
+
+Nothing in this agreement excludes or limits rights, guarantees or liabilities that cannot lawfully be excluded or limited.
