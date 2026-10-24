@@ -10,6 +10,20 @@ incorporated GNU General Public License, version 3 (GPLv3), texts are
 included below. Users retain the rights to modify or replace covered
 libraries and reverse engineer for debugging those modifications.
 
+BUILD AND INSTALLER ACKNOWLEDGMENTS
+
+Nuitka is used to compile iGEX. Nuitka is developed by Kay Hayen and
+contributors. Project and version-specific license information:
+https://github.com/Nuitka/Nuitka
+
+Inno Setup is used to create the Windows installer. Inno Setup is developed
+by Jordan Russell and Martijn Laan.
+Project: https://jrsoftware.org/isinfo.php
+License: https://github.com/jrsoftware/issrc/blob/main/license.txt
+
+PyInstaller has also been used for iGEX builds; its existing notice and
+license text are retained below.
+
 CONTENTS
 01. Arrow-LICENSE.txt
 02. Arrow-NOTICE.txt
