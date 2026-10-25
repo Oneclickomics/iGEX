@@ -12,6 +12,16 @@ iGEX allows users to customise and visualise data using expression heatmaps, cor
 
 iGEX is developed in Python with a Qt interface. The initial release is for Windows.
 
+## Installation
+
+**Windows installer:** [Download iGEX Setup](https://github.com/Oneclickomics/iGEX/releases/latest/download/iGEX.Setup.exe) (approximately 133 MB). Run the downloaded file and follow the installation prompts.
+
+**Portable version:** [Download iGEX Portable](https://github.com/Oneclickomics/iGEX/releases/latest/download/iGEX.Portable.7z) (approximately 118 MB). Extract the entire `.7z` archive using 7-Zip or another compatible archive tool, then open **iGEX Explorer.exe** inside the extracted **iGEX Portable** folder. No installation is required; keep all extracted files together.
+
+The installed or extracted application uses approximately **550 MB**. We recommend keeping at least **1 GB of additional free space** for datasets; larger libraries may require more.
+
+Windows may identify iGEX as an **unknown publisher**. If your system prevents installation, you can try the portable version instead. The portable application may still be subject to Windows security checks or your organisation's restrictions.
+
 ## Bug reports and feature requests
 
 If you find a bug or have a feature request, please [open an issue](https://github.com/Oneclickomics/iGEX/issues). Include as much relevant information as possible: your iGEX and Windows versions, steps to reproduce the problem, expected and actual behaviour, screenshots and any error messages. For feature requests, describe what you would like to do and how it would help your workflow.
