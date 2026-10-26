@@ -6,7 +6,7 @@ iGEX is free to download, install and use for any lawful purpose, including comm
 
 2. Redistribution and source code
 
-Do not redistribute, sell or repackage the iGEX application without permission. Share the official download link instead. The original application source remains private. Scientific-method code released separately is governed by its accompanying license. These restrictions are subject to the third-party rights below.
+Do not redistribute, sell or repackage the iGEX application without permission. Share the official download link instead. Code used for scientific methods is available in the documentation and is governed by its accompanying license. These restrictions are subject to the third-party rights below.
 
 3. Datasets and responsibility
 
